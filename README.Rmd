@@ -1,3 +1,5 @@
-Code for: Malanchini, M., Allegrini, A.G., Nivard, M.G., Biroli, P., Rimfeld, K., Cheesman, R., von Stumm, S., Demange, P.A., van Bergen, E., Grotzinger, A.D. and Raffington, L., De la Fuente, J., Pingault, JB., Harden, K.P., Tucker-Drob, E.M., and Plomin, R. 2023. *Genetic contributions of noncognitive skills to academic development.* bioRxiv.
+Code for: Malanchini, M., Allegrini, A.G., Nivard, M.G., Biroli, P., Rimfeld, K., Cheesman, R., von Stumm, S., Demange, P.A., van Bergen, E., Grotzinger, A.D. and Raffington, L., De la Fuente, J., Pingault, JB., Harden, K.P., Tucker-Drob, E.M., and Plomin, R. 2024. *Genetic contributions of noncognitive skills to academic development.* Nature human behaviour, 8(10), 2034-2046.
+
+Paper: <https://www.nature.com/articles/s41562-024-01967-9>
 
 Preprint: <https://osf.io/preprints/psyarxiv/w4psd>
